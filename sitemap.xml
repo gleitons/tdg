@@ -2,9 +2,905 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://territoriodasgondolas.com.br</loc>
-	<lastmod>2022-09-19</lastmod>
+	<lastmod>2022-09-26</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/cozinhas-comerciais-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/supermercado-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>slide 2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/bares-e-pubs-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>slide 3</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/armazenagem-territorio-das-gondolas.png</image:loc>
+	<image:title>armazenagem territorio-das-gondolas</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/moveis-de-aco-territorio-das-gondolas.png</image:loc>
+	<image:title>armazenagem territorio-das-gondolas</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/gondolas-de-aco-territorio-das-gondolas.png</image:loc>
+	<image:title>armazenagem territorio-das-gondolas</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/todos-gondolas-de-aco-porta-pallet-arquivos-territorio-das-gondolas.png</image:loc>
+	<image:title>armazenagem territorio-das-gondolas</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/gondolas-new-plus-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>gondolas new-plus-territorio-das-gondolas.jpeg</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/cover-mini-porta-pallet-territorio-das-gondolas.png</image:loc>
+	<image:title>cover mini-porta-pallet-territorio-das-gondolas</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/Check-out-Branco-2mts-territorio-das-gondolas.png</image:loc>
+	<image:title>Check out-Branco-2mts-territorio-das-gondolas</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/produto-mini-porta-pallet-slim-territorio-das-gondolas.png</image:loc>
+	<image:title>produto mini-porta-pallet-slim-territorio-das-gondolas</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/produto-mini-porta-pallet-slim-9d2b27d8c4-territorio-das-gondolas.png</image:loc>
+	<image:title>produto mini-porta-pallet-slim-9d2b27d8c4-territorio-das-gondolas</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/produto-mini-porta-pallet-slim-bfd58427a6-territorio-das-gondolas.png</image:loc>
+	<image:title>produto mini-porta-pallet-slim-bfd58427a6-territorio-das-gondolas</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/gôndolas.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/modelo-produto.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/fomrulario.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/gondola-super-plus.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/descricao-gondolas-super-plus.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/gondola-new-plus.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/gondolas-New-Plus-territorio-das-gnodolas.jpeg</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/descricao-gondolas-new-plus-territorio-das-gondolas.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/rack-slim.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/cover-rack-sllim-territorio-das-gondolas.png</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/rack-slim-territorio-das-gondolas.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/gondola-de-farmacia.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/gondola-de-farmacia-territorio-das-gondolas.png</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/descricao-gondola-de-farmacia-territorio-das-gondolas.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/expositor-de-pisos.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/expositores-de-piso-sagrupo-territorio-das-gondolas.png</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/expositor-de-pisos-territorio-das-gondolas.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/check-out-2m-.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/Check-out-Branco-2mts-territorio-das-gondolas.png</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/expositor-de-pisos-territorio-das-gondolas.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/balcao-slim.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/balcao-slim-territorio-das-gondolas-1.jpeg</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/balcao-slim-territorio-das-gondolas-2.jpeg</image:loc>
+	<image:title>balcao slim-territorio-das-gondolas-2.jpeg</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/descricao-balcao-slim-territorio-das-gondolas.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/check-out-150-cm.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/Check-out-150-territorio-das-gondolas.png</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/balcao-slim-territorio-das-gondolas-2.jpeg</image:loc>
+	<image:title>balcao slim-territorio-das-gondolas-2.jpeg</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/checkout-150-territorio-das-gondolas.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/checkout-express.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/checkout-preto-Express-territorio-das-gondolas.png</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/Branco-Express-1-territorio-das-gondolas.png</image:loc>
+	<image:title>Branco Express-1-territorio-das-gondolas</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/Checkout-Express-2-territorio-das-gondolas.png</image:loc>
+	<image:title>Checkout Express-2-territorio-das-gondolas</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/descricao-checkout-expresso-territorio-das-gondolas.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/divisoria-cesto-40-50.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/divisoria-cesto-30-40-sagrupo-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/descricao-checkout-expresso-territorio-das-gondolas.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/cesto-40-50.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/cesto-40-50-sagrupo-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/descricao-checkout-expresso-territorio-das-gondolas.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/gancho-duplo.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/gancho-duplo-sagrupo-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/descricao-checkout-expresso-territorio-das-gondolas.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/cesto-30-40-cm.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/cesto-30-40-sagrupo-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/descricao-checkout-expresso-territorio-das-gondolas.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/gancho-simples.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/gancho-simples-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/descricao-checkout-expresso-territorio-das-gondolas.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/regua-para-ganchos.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/cover-regua-p-ganchos-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/descricao-checkout-expresso-territorio-das-gondolas.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/check-stand.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/check-stand-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/descricao-checkout-expresso-territorio-das-gondolas.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/carrinho-de-compras.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/cover-carrinho-compras-01-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/descricao-checkout-expresso-territorio-das-gondolas.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/porta-pallets.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/cover-porta-pallets-territorio-das-gondolas.png</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/muitos-porta-pallets-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>muitos porta-pallets-territorio-das-gondolas.jpeg</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/porta-pallets-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>porta pallets-territorio-das-gondolas.jpeg</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/descricao-porta-pallets-territorio-das-gondolas.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/armario-de-aco-pa15.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/cover-armario-aco-pa15-territorio-das-gondolas.png</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/descricao-armario-aco-p15-territorio-das-gondolas.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/armario-de-aco-pa50.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/armario-aco-pa50-territorio-das-gondolas.png</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/informacao-p50-armario-territorio-das-gondolas.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/arquivos.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/arquivos-de-aco-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/info-arquivos-territorio-das-gondolas.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/estante-leve.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/arquivos-de-aco-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/info-estante-leve-territorio-das-gondolas.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/estante-industrial.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/estante-industrial-territorio-das-gondolas.png</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/estante-industrial-info.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/mini-porta-pallet-slim.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/Mini-Porta-Pallet-Slim-SA-territorio-das-gondolas.png</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/info-mini-porta-pallet-slim-territorio-das-gondolas.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/mini-porta-pallets.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/cover-mini-porta-pallet-territorio-das-gondolas.png</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/desc-mini-porta-pallets-slim.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/cover-mini-porta-pallet-territorio-das-gondolas.png</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/roupeiro-20-pp.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/roupeiro-20-pp-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/info-roupeiro-20-pp.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/roupeiro-16-pp.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/roupeiro-16-pp-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/info-armario-16-pp.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/roupeiro-12-pp.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/roupeiro-12-pp-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/info-armario-12pp.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/roupeiro-08-pp.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/roupeiro-08pp-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/territorio-das-gondolas-info-armario-8-pp.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/roupeiro-04-pp.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/cover-roupeiro-04-pg-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/territorio-das-gondolas-info-armario-8-pp.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/roupeiro-06-pp.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/cover-roupeiro-06-pg-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/territorio-das-gondolas-info-armario-8-pp.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/roupeiro-01-pp.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/cover-roupeiro-1-pg-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/territorio-das-gondolas-info-armario-8-pp.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/armario-de-aco-p15.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/cover-armario-aco-pa15-top-territorio-das-gondolas.png</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/territorio-das-gondolas-info-armario-8-pp.png</image:loc>
+	<image:title>descricao gondolas-super-plus</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/quem-somos.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/contato.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/obrigado.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/politica-de-privacidade.html</loc>
+	<lastmod>2022-09-26</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
 	<image:image>
 	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
