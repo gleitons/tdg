@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://territoriodasgondolas.com.br</loc>
-	<lastmod>2022-09-27</lastmod>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -38,15 +38,15 @@
 	<image:title>gondolas new-plus-territorio-das-gondolas.jpeg</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/cover-mini-porta-pallet-territorio-das-gondolas.png</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/cover-mini-porta-pallet-territorio-das-gondolas-1.png</image:loc>
 	<image:title>cover mini-porta-pallet-territorio-das-gondolas</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/Check-out-Branco-2mts-territorio-das-gondolas.png</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/Check-out-Branco-2mts-territorio-das-gondolas-1.png</image:loc>
 	<image:title>Check out-Branco-2mts-territorio-das-gondolas</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/produto-mini-porta-pallet-slim-territorio-das-gondolas.png</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/produto-mini-porta-pallet-slim-territorio-das-gondolas-1.png</image:loc>
 	<image:title>produto mini-porta-pallet-slim-territorio-das-gondolas</image:title>
 	</image:image>
 	<image:image>
@@ -58,17 +58,17 @@
 	<image:title>produto mini-porta-pallet-slim-bfd58427a6-territorio-das-gondolas</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/logo-territorio-das-gondolas.jpeg</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/logo-territorio-das-gondolas.jpeg</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/gôndolas.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/gôndolas/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -80,23 +80,23 @@
 	<image:title>cover rack-sllim-territorio-das-gondolas</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/gondola-de-farmacia-territorio-das-gondolas.png</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/gondola-de-farmacia-territorio-das-gondolas-1.png</image:loc>
 	<image:title>gondola de-farmacia-territorio-das-gondolas</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/expositores-de-piso-sagrupo-territorio-das-gondolas.png</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/expositores-de-piso-sagrupo-territorio-das-gondolas-1.png</image:loc>
 	<image:title>expositores de-piso-sagrupo-territorio-das-gondolas</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/Check-out-Branco-2mts-territorio-das-gondolas.png</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/Check-out-Branco-2mts-territorio-das-gondolas-1.png</image:loc>
 	<image:title>Check out-Branco-2mts-territorio-das-gondolas</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/checkout-preto-Express-territorio-das-gondolas.png</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/checkout-preto-Express-territorio-das-gondolas-1.png</image:loc>
 	<image:title>checkout preto-Express-territorio-das-gondolas</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/Check-out-150-territorio-das-gondolas.png</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/Check-out-150-territorio-das-gondolas-1.png</image:loc>
 	<image:title>Check out-150-territorio-das-gondolas</image:title>
 	</image:image>
 	<image:image>
@@ -109,8 +109,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/modelo-produto.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/modelo-produto/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -123,8 +123,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/fomrulario.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/fomrulario/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -137,8 +137,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/gondola-super-plus.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/gondola-super-plus/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -155,8 +155,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/gondola-new-plus.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/gondola-new-plus/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -177,8 +177,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/rack-slim.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/rack-slim/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -199,12 +199,12 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/gondola-de-farmacia.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/gondola-de-farmacia/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/gondola-de-farmacia-territorio-das-gondolas.png</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/gondola-de-farmacia-territorio-das-gondolas-1.png</image:loc>
 	<image:title>slide 1</image:title>
 	</image:image>
 	<image:image>
@@ -221,12 +221,12 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/expositor-de-pisos.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/expositor-de-pisos/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/expositores-de-piso-sagrupo-territorio-das-gondolas.png</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/expositores-de-piso-sagrupo-territorio-das-gondolas-1.png</image:loc>
 	<image:title>slide 1</image:title>
 	</image:image>
 	<image:image>
@@ -243,12 +243,12 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/check-out-2m-.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/check-out-2m-/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/Check-out-Branco-2mts-territorio-das-gondolas.png</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/Check-out-Branco-2mts-territorio-das-gondolas-1.png</image:loc>
 	<image:title>slide 1</image:title>
 	</image:image>
 	<image:image>
@@ -265,8 +265,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/balcao-slim.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/balcao-slim/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -291,12 +291,12 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/check-out-150-cm.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/check-out-150-cm/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/Check-out-150-territorio-das-gondolas.png</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/Check-out-150-territorio-das-gondolas-1.png</image:loc>
 	<image:title>slide 1</image:title>
 	</image:image>
 	<image:image>
@@ -317,12 +317,12 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/checkout-express.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/checkout-express/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/checkout-preto-Express-territorio-das-gondolas.png</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/checkout-preto-Express-territorio-das-gondolas-1.png</image:loc>
 	<image:title>slide 1</image:title>
 	</image:image>
 	<image:image>
@@ -347,8 +347,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/divisoria-cesto-40-50.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/divisoria-cesto-40-50/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -369,8 +369,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/cesto-40-50.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/cesto-40-50/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -391,8 +391,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/gancho-duplo.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/gancho-duplo/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -413,8 +413,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/cesto-30-40-cm.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/cesto-30-40-cm/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -435,8 +435,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/gancho-simples.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/gancho-simples/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -457,8 +457,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/regua-para-ganchos.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/regua-para-ganchos/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -479,8 +479,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/check-stand.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/check-stand/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -501,8 +501,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/carrinho-de-compras.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/carrinho-de-compras/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -523,12 +523,12 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/porta-pallets.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/porta-pallets/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/cover-porta-pallets-territorio-das-gondolas.png</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/cover-porta-pallets-territorio-das-gondolas-1.png</image:loc>
 	<image:title>slide 1</image:title>
 	</image:image>
 	<image:image>
@@ -553,8 +553,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/armario-de-aco-pa15.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/armario-de-aco-pa15/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -575,8 +575,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/armario-de-aco-pa50.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/armario-de-aco-pa50/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -597,8 +597,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/arquivos.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/arquivos/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -619,8 +619,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/estante-leve.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/estante-leve/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -641,8 +641,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/estante-industrial.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/estante-industrial/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -663,8 +663,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/mini-porta-pallet-slim.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/mini-porta-pallet-slim/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -685,12 +685,12 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/mini-porta-pallets.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/mini-porta-pallets/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/cover-mini-porta-pallet-territorio-das-gondolas.png</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/cover-mini-porta-pallet-territorio-das-gondolas-1.png</image:loc>
 	<image:title>slide 1</image:title>
 	</image:image>
 	<image:image>
@@ -707,8 +707,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/roupeiro-20-pp.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/roupeiro-20-pp/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -729,8 +729,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/roupeiro-16-pp.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/roupeiro-16-pp/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -751,8 +751,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/roupeiro-12-pp.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/roupeiro-12-pp/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -773,8 +773,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/roupeiro-08-pp.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/roupeiro-08-pp/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -795,8 +795,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/roupeiro-04-pp.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/roupeiro-04-pp/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -817,8 +817,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/roupeiro-06-pp.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/roupeiro-06-pp/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -839,8 +839,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/roupeiro-01-pp.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/roupeiro-01-pp/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -861,8 +861,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/armario-de-aco-p15.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/armario-de-aco-p15/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -883,8 +883,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/contato.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/contato/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -897,8 +897,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/obrigado.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/obrigado/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -911,8 +911,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/politica-de-privacidade.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/politica-de-privacidade/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -925,8 +925,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/moveis-de-aco.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/moveis-de-aco/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -983,8 +983,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/armazenagem.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/armazenagem/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -992,35 +992,35 @@
 	<image:title>Porta Pallet--organize-forma-inteligente-territorio-das-gondolas</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/produto-mini-porta-pallet-slim-territorio-das-gondolas.png</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/produto-mini-porta-pallet-slim-territorio-das-gondolas-1.png</image:loc>
 	<image:title>produto mini-porta-pallet-slim-territorio-das-gondolas</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/cover-mini-porta-pallet-territorio-das-gondolas.png</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/cover-mini-porta-pallet-territorio-das-gondolas-1.png</image:loc>
 	<image:title>gondolas new-plus-territorio-das-gondolas.jpeg</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/cover-porta-pallets-territorio-das-gondolas.png</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/cover-porta-pallets-territorio-das-gondolas-1.png</image:loc>
 	<image:title>cover rack-sllim-territorio-das-gondolas</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/gondola-de-farmacia-territorio-das-gondolas.png</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/gondola-de-farmacia-territorio-das-gondolas-1.png</image:loc>
 	<image:title>gondola de-farmacia-territorio-das-gondolas</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/expositores-de-piso-sagrupo-territorio-das-gondolas.png</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/expositores-de-piso-sagrupo-territorio-das-gondolas-1.png</image:loc>
 	<image:title>expositores de-piso-sagrupo-territorio-das-gondolas</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/Check-out-Branco-2mts-territorio-das-gondolas.png</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/Check-out-Branco-2mts-territorio-das-gondolas-1.png</image:loc>
 	<image:title>Check out-Branco-2mts-territorio-das-gondolas</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/checkout-preto-Express-territorio-das-gondolas.png</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/checkout-preto-Express-territorio-das-gondolas-1.png</image:loc>
 	<image:title>checkout preto-Express-territorio-das-gondolas</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://territoriodasgondolas.com.br/img/Check-out-150-territorio-das-gondolas.png</image:loc>
+	<image:loc>https://territoriodasgondolas.com.br/img/Check-out-150-territorio-das-gondolas-1.png</image:loc>
 	<image:title>Check out-150-territorio-das-gondolas</image:title>
 	</image:image>
 	<image:image>
@@ -1033,8 +1033,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/todos-produtos.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/todos-produtos/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -1091,8 +1091,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/politica-de-privacidade.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/politica-de-privacidade/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -1105,8 +1105,8 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/quem-somos.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/quem-somos/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -1119,10 +1119,48 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://territoriodasgondolas.com.br/404.html</loc>
-	<lastmod>2022-09-27</lastmod>
+	<loc>https://territoriodasgondolas.com.br/404/</loc>
+	<lastmod>2022-09-28</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://territoriodasgondolas.com.br/acessorios-para-gondolas/</loc>
+	<lastmod>2022-09-28</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/gancho-simples-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>gancho simples-territorio-das-gondolas.jpeg</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/gancho-duplo-sagrupo-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>gondolas new-plus-territorio-das-gondolas.jpeg</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/cover-regua-p-ganchos-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>cover rack-sllim-territorio-das-gondolas</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/cesto-30-40-sagrupo-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>gondola de-farmacia-territorio-das-gondolas</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/cesto-40-50-sagrupo-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>expositores de-piso-sagrupo-territorio-das-gondolas</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://territoriodasgondolas.com.br/img/divisoria-cesto-30-40-sagrupo-territorio-das-gondolas.jpeg</image:loc>
+	<image:title>Check out-Branco-2mts-territorio-das-gondolas</image:title>
+	</image:image>
 	<image:image>
 	<image:loc>https://territoriodasgondolas.com.br/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
