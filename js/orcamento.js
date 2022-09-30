@@ -38,6 +38,11 @@ document.getElementById('orcamentoProduto').innerHTML = `<div class="bloc full-w
                             </button>
                         </form>
                     </div>
+                    <div>
+                    <a href="https://api.whatsapp.com/send?phone=555189505605&amp;text=Olá gostaria de realizar um orçamento, poderia me ajudar? Vi ${nomeProdutoE} aqui ${linksite}." target="_blank">
+                    <img src="../img/orcamento-de-gondolas-pelo-whatsapp.png" data-src="../img/orcamento-de-gondolas-pelo-whatsapp.png" alt="orcamento de-gondolas-pelo-whatsapp" data-appear-anim-style="tada" class="img-fluid mx-auto d-block img-bloc-5-style mg-sm animLoopInfinite animDelay06 animSpeedSlow tada animated lazyloaded" style="visibility: visible;">
+                    </a>
+                    </div>
                 </div>
                 <div class="text-lg-center align-self-center col-lg-3">
                 </div>
