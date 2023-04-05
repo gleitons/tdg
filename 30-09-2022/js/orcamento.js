@@ -22,7 +22,7 @@ document.getElementById('orcamentoProduto').innerHTML = `<div class="bloc full-w
                                 <input id="nome_completo" class="form-control field-style" required placeholder="NOME COMPLETO" name="nome_completo" data-validation-required-message="O nome é requerido" />
                             </div>
                             <div class="form-group mb-3">
-                                <input id="telefone" class="form-control field-style" type="number" required placeholder="TEL: COD + NUMERO" name="telefone" data-validation-required-message="Telefone é requeirdo" />
+                                <input id="telefone" class="form-control field-style" onkeyup="verificaNumero()"  type="number" required placeholder="TEL: COD + NUMERO" name="telefone" data-validation-required-message="Telefone é requeirdo" />
                             </div>
                             <div class="form-group mb-3">
                                 <input id="email" class="form-control field-style" type="email" placeholder="E-MAIL" data-error-validation-msg="continue digitando..." name="email" required data-validation-required-message="E-mail é requerido" />
@@ -57,3 +57,8 @@ document.getElementById('orcamentoProduto').innerHTML = `<div class="bloc full-w
 
 
 document.getElementById('botaoprecoorcamento').innerHTML = `<a href="https://api.whatsapp.com/send?phone=555189505605&amp;text=Olá gostaria de realizar um orçamento, poderia me ajudar? Vi ${nomeProdutoE} aqui ${linksite}." target="_blank" class="btn btn-d btn-lg w-100 btn-consultar-preco btn-glossy">CONSULTAR PREÇO</a>`;
+
+
+function verificaNumero() {
+    console.log('apertou')
+}

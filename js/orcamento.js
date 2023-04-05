@@ -22,7 +22,7 @@ document.getElementById('orcamentoProduto').innerHTML = `<div class="bloc full-w
                                 <input id="nome_completo" class="form-control field-style" required placeholder="NOME COMPLETO" name="nome_completo" data-validation-required-message="O nome é requerido" />
                             </div>
                             <div class="form-group mb-3">
-                                <input id="telefone" class="form-control field-style" type="number" required placeholder="TEL: COD + NUMERO" name="telefone" data-validation-required-message="Telefone é requeirdo" />
+                                <input id="telefone" class="form-control field-style" onkeyup="verificaNumero()" type="text" required placeholder="TEL: COD + NUMERO" name="telefone" data-validation-required-message="Telefone é requeirdo" />
                             </div>
                             <div class="form-group mb-3">
                                 <input id="email" class="form-control field-style" type="email" placeholder="E-MAIL" data-error-validation-msg="continue digitando..." name="email" required data-validation-required-message="E-mail é requerido" />
@@ -57,3 +57,49 @@ document.getElementById('orcamentoProduto').innerHTML = `<div class="bloc full-w
 
 
 document.getElementById('botaoprecoorcamento').innerHTML = `<a href="https://api.whatsapp.com/send?phone=555189505605&amp;text=Olá gostaria de realizar um orçamento, poderia me ajudar? Vi ${nomeProdutoE} aqui ${linksite}." target="_blank" class="btn btn-d btn-lg w-100 btn-consultar-preco btn-glossy">CONSULTAR PREÇO</a>`;
+
+function verificaNumero() {
+
+    const key = event.key;
+   
+    var telefoneDDD = document.querySelector('#telefone').value;
+    console.log(telefoneDDD.length)
+    if(key !== 'Backspace'){
+       
+    
+   
+    if(telefoneDDD.length == 2){
+        document.querySelector("[id='telefone']").value = `(${telefoneDDD}) `
+        console.log('duas')
+        if(telefoneDDD.length == 3){
+            document.querySelector("[id='telefone']").value = `(`
+        }
+    }
+    if(telefoneDDD.length == 6){
+        document.querySelector("[id='telefone']").value = `${telefoneDDD} `
+        console.log('duas')
+        if(telefoneDDD.length == 3){
+            document.querySelector("[id='telefone']").value = `(`
+        }
+    }
+    if(telefoneDDD.length == 15){
+        const numeroT = telefoneDDD.split('')        
+        document.querySelector("[id='telefone']").value = `${numeroT[0]}${numeroT[1]}${numeroT[2]}${numeroT[3]}${numeroT[4]}${numeroT[5]}${numeroT[6]}${numeroT[7]}${numeroT[8]}${numeroT[9]}${numeroT[10]}-${numeroT[11]}${numeroT[12]}${numeroT[13]}${numeroT[14]}`
+       
+        
+    }
+    } 
+    if(key === 'Backspace') {
+        console.log(telefoneDDD.length)
+        if(telefoneDDD.length < 3){
+            document.querySelector("[id='telefone']").value = ""
+            console.log('duas')
+            // if(telefoneDDD.length == 3){
+            //     document.querySelector("[id='telefone']").value = `(`
+            // }
+        }
+    }
+   
+    
+    
+}
